@@ -1,0 +1,12 @@
+@media (max-width: 575px) {
+    .container{
+       
+        grid-template-columns: repeat(2,auto);
+        padding: 0%;
+    }
+
+    #box{
+        width: 120px;
+        height: 120px;
+    }
+}
